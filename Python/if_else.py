@@ -1,9 +1,9 @@
-# Born = int(input("Enter your Born : "))
+Born = int(input("Enter your Born : "))
 
-# if Born>=18:
-#     print("You can Drive")
-# else:
-#     print("You cannot Drive")
+if Born>=18:
+    print("You can Drive")
+else:
+    print("You cannot Drive")
 
 
 # . if ... elif ... else
